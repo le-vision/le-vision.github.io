@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a data scientist, a musician and a father, in ascending order of importance.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Devonian based in London in the United Kingdom.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[liam.f.ellis@gmail.com](mailto:liam.f.ellis@gmail.com)
