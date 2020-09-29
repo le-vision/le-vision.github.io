@@ -6,8 +6,6 @@ permalink: /about/
 
 I am a data scientist, a musician and a father, in ascending order of importance.
 
-### More Information
-
 Devonian based in London in the United Kingdom.
 
 ### Contact me
